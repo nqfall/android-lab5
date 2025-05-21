@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">flightsearch</string>
+    <string name="app_name">Flight Search</string>
+    <string name="app_name_title">Поиск Авиарейсов</string>
+    <string name="search_airport_hint">Аэропорт (IATA или название)</string>
+    <string name="search_icon_desc">Иконка поиска</string>
+    <string name="clear_search_desc">Очистить поиск</string>
+    <string name="no_airports_found">Аэропорты не найдены.</string>
+    <string name="flights_from_airport">Рейсы из: %1$s</string>
+    <string name="no_destinations_found">Направления не найдены.</string>
+    <string name="depart_label">Вылет</string>
+    <string name="arrive_label">Прилет</string>
+    <string name="add_to_favorites">Добавить в избранное</string>
+    <string name="remove_from_favorites">Удалить из избранного</string>
+    <string name="favorite_routes_title">Избранные маршруты</string>
+    <string name="no_favorite_routes">У вас пока нет избранных маршрутов.</string>
 </resources>
